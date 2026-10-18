@@ -23,4 +23,3 @@ Lalu buka `http://localhost:4173`.
 - Kontak
 
 Semua nama, harga, tanggal, foto, dan informasi bisnis pada template ini adalah konten demo/ilustratif.
-
